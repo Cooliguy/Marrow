@@ -1,7 +1,12 @@
 {
- "build": "b2e26462dedf",
- "date": "2026-11-15T15:36:44.661Z",
- "size": 15554603,
- "sha256": "e44522e3b99df444d5e9d7876ca69bd264c18be6825b2945ec42a1c1047bdfe4",
- "url": "app.js"
+ "build": "24ba82cb388d",
+ "date": "2026-11-15T16:05:11.841Z",
+ "size": 15555909,
+ "sha256": "13bb5d03dce1d577b03c6fc53d478aae802816642a30a3679aabec3ca9b7e099",
+ "url": "app.js",
+ "teaser": {
+  "url": "teaser.mp4",
+  "size": 51361039,
+  "sha256": "ed9fe94debc85d2edbfa75b61aed4729e4901d1f23cf6fa0b48bcbd5c28d87be"
+ }
 }
