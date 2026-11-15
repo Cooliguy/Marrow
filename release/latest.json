@@ -1,12 +1,12 @@
 {
- "build": "24ba82cb388d",
- "date": "2026-11-15T16:05:11.841Z",
- "size": 15555909,
- "sha256": "13bb5d03dce1d577b03c6fc53d478aae802816642a30a3679aabec3ca9b7e099",
+ "build": "4f1c904c095c",
+ "date": "2026-11-15T16:28:26.663Z",
+ "size": 15555905,
+ "sha256": "13ecf5aae78dc152fe0e4e7025f82030d0017f9240661b6251c1f388d82b41c0",
  "url": "app.js",
  "teaser": {
   "url": "teaser.mp4",
-  "size": 51361039,
-  "sha256": "ed9fe94debc85d2edbfa75b61aed4729e4901d1f23cf6fa0b48bcbd5c28d87be"
+  "size": 70120128,
+  "sha256": "45c5200beb629a37c8f5123d45d16ba2884622542048f4eb5917bb12e7da2e2a"
  }
 }
