@@ -1,8 +1,8 @@
 {
- "build": "5b6e5ee23227",
- "date": "2026-11-15T16:50:16.307Z",
- "size": 15556662,
- "sha256": "5f4fa4da500960450e064bebbd20603a241d500ef5bfede37dcce254210cd992",
+ "build": "3af4850f7d82",
+ "date": "2026-11-15T17:44:24.050Z",
+ "size": 15558342,
+ "sha256": "c3c9e60840e81b89aefa7f8cca2e23e7877bd7a131dfd24ed529fa2c295e81b6",
  "url": "app.js",
  "teaser": {
   "url": "teaser.mp4",
